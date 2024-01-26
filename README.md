@@ -24,3 +24,5 @@ public class classSurroundWith {
 
 ## Method 2 - Press Ctrl + Alt + T
 <img width="469" alt="surround-with-02" src="https://github.com/danielurra/java-surround-with/assets/51704179/62bc7ede-3550-4379-a11b-bbc90cf53668"><br>
+## Job well done
+<img width="390" alt="surround-with-03" src="https://github.com/danielurra/java-surround-with/assets/51704179/14d0dd27-d2e9-40ba-8ea3-3ec847aa43a9"><br>
