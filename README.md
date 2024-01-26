@@ -19,3 +19,8 @@ public class classSurroundWith {
     }
 }
 ```
+## Method 1 -  use the Menu
+<img width="612" alt="surround-with-01" src="https://github.com/danielurra/java-surround-with/assets/51704179/5882bed5-3d4f-4be4-978b-ea3cb04d5323"><br>
+
+## Method 2 - Press Ctrl + Alt + T
+<img width="469" alt="surround-with-02" src="https://github.com/danielurra/java-surround-with/assets/51704179/62bc7ede-3550-4379-a11b-bbc90cf53668"><br>
